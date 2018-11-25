@@ -5,8 +5,16 @@ date: "24 de novembro de 2018"
 output: ioslides_presentation
 ---
 
-## Intro
+## Introdução
 
 ## GIT
 
-## Repositorio
+## Repositório
+
+## Fork & Pull Request
+
+## Issues
+
+## Projects
+
+## Stars
