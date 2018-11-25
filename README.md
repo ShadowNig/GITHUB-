@@ -1,8 +1,6 @@
 # GITHUB
 trabalho de metodos
 
-# Altere isso, por favor.
-
 ## links interessantes
 #### mini curso git e github
 http://www.udemy.com/git-e-github-para-iniciantes/
