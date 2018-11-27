@@ -27,19 +27,21 @@ Algumas Vantagens:
     + Apagar um arquivo importante e não ter como recuperar.
     + Caos entre duas pessoas abrindo o mesmo arquivo ao mesmo tempo.
     
-## ***Git + GitHub***
-
-...
-    
 ## ***O que é o GitHub?***
 
-...
+![](https://www.oficinadanet.com.br/imagens/post/16111/github-logo.jpg1.jpg)
 
-## ***Criando uma conta***
+O GitHub é uma plataforma de hospedagem de código-fonte com controle de versão usando o Git. Ou seja, é uma espécie de rede social para desenvolvedores e programadores; um local na web onde você consegue hospedar os seus projetos pessoais em nuvem, além de contribuir com outros projetos open source.
 
-...
+## ***Primeiros passos***
 
-## 
+Para usar o GitHub só é necessário criar uma conta e ter acesso à internet.
+
+O site para termos acesso é o https://github.com/.
+
+  + Criando uma conta:
+
+![](C:/Users/thais/Downloads/conta-github.png)
 
 ## Repositório
 
@@ -50,5 +52,3 @@ Algumas Vantagens:
 ## Projects
 
 ## Stars
-
-## Branch
