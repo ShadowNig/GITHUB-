@@ -1,13 +1,45 @@
 ---
 title: "GITHUB"
-author: "grupo 4"
-date: "24 de novembro de 2018"
+author: "Beatriz Mello, Júlia Oliveira, Lucas Moura, Maqueise Pinheiro & Thaís Machado"
+date: "29 de novembro de 2018"
 output: ioslides_presentation
 ---
 
-## Introdução
+## ***Git***
 
-## GIT
+Para entender melhor como o GitHub funciona, primeiramente vamos entender o que é e como funciona o Git.
+
+![](https://cdn.tproger.ru/wp-content/uploads/2015/05/git-logo1.png)
+
+&nbsp;
+
+O Git é o sistema de controle de versão de arquivos mais utilizado no mundo.
+
+## ***Controle de Versão***
+
+&nbsp;
+
+Algumas Vantagens:
+
+- Gerencia diferentes versões de um documento.
+- Diversas pessoas podem contribuir simultaneamente no mesmo.
+- Evita problemas do tipo:
+    + Apagar um arquivo importante e não ter como recuperar.
+    + Caos entre duas pessoas abrindo o mesmo arquivo ao mesmo tempo.
+    
+## ***Git + GitHub***
+
+...
+    
+## ***O que é o GitHub?***
+
+...
+
+## ***Criando uma conta***
+
+...
+
+## 
 
 ## Repositório
 
