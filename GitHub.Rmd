@@ -1,0 +1,36 @@
+---
+title: "GitHub"
+author: "Beatriz Mello, Júlia Oliveira, Lucas Moura, Maqueise Pinheiro & Thaís Machado"
+date: "29 de novembro de 2018"
+output: rmarkdown::html_vignette
+---
+
+**Parte da Thaís**
+
+**Parte da Júlia**
+
+**Parte da Beatriz**
+
+
+## Fork e Pull Request
+
+*Fork* é uma cópia de um repositório que te permite fazer modificações sem alterar o repositório original. Normalmente, o *fork* é utilizado para propor alterações no projeto de outra pessoa ou como ponto de partida para uma ideia sua que é um dos objetivos do github.
+
+Se queremos que nossas modificacoes fiquem salvas no repositório original, podemos usar o *Pull Request* para solicitar ao usuário que adicione essas alterações ao arquivo. O Responsável pelo projeto pode aceitar ou nao essas solicitações.
+
+Um ótimo exemplo para usar o *fork* é para consertar bugs. Para isto, usamos o *Pull request*, caso os donos do repositório original gostem das suas alterações, o repositório original recebe as mudanças que você mesmo realizou.
+
+
+## Issues
+
+*Issues* é o rastreador de bugs do github, e tem sua própria seção em todos os repositórios. Os *issues* são uma ótima maneira de acompanhar as tarefas, os aprimoramentos e os bugs dos seus projetos. É nesse lugar onde ocorre a interatividade entre os usuários, uma vez que é nessa seção que ocorrem as discutições e compartilhamento de ideias do projeto.
+
+## Projects
+
+O projects funciona como um trello. Ele ajuda a organizar o espaco de trabalho em listas e topicos. e possivel organizar os issues e Pull Requests e ainda adicionar notas.
+
+## Watch e Stars
+
+O sistema de *watch* e uma maneira de acompanhar seu repositorios de interesse de modo que voce seja informado se houve alguma alteracao neles. da mesma maneira funciona o *follow*, mas ao inves de repositorios, segue-se um desenvolvedor.
+
+Podemos tambem adicionar estrelas (Stars) em um repositorio, assim ele ficara salvos em sua lista de Stars e permitira que descubra projetos semelhantes.
