@@ -43,7 +43,17 @@ O site para termos acesso é o https://github.com/.
 
 ![](C:/Users/thais/Downloads/conta-github.png)
 
-## Repositório
+## ***Tipos de Plano***
+
+![](C:/Users/thais/Downloads/planos-github.png)
+
+## ***Adaptando sua Experiência***
+
+![](C:/Users/thais/Downloads/perguntas-github.png)
+
+## ***Início***
+
+![](C:/Users/thais/Downloads/inicio-github.png)
 
 ## Fork & Pull Request
 
