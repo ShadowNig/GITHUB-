@@ -20,11 +20,32 @@ Podemos baixar e instalar o software do Git no nosso computador, para versionarm
 O *GitHub* é uma plataforma de hospedagem de códigos e projetos em nuvem. Ele utiliza o controle de versão através do Git. Mais informalmente falando, o GitHub é como uma rede social para programadores e/ou pessoas interessadas em aprender programação ou contribuir com projetos, sejam pessoais ou em grupo.
 
 Para criarmos uma conta no GitHub, basta fornecer nosso e-mail e escolher um nome de usuário. Assim que os dados forem cadastrados, escolheremos um plano mensal para a nossa conta, o gratuito ou o developer. Com o gratuito temos direito a: uma conta, repositórios públicos ilimitados e direito a colaborações ilimitadas. Com o developer temos direito a tudo isso e também a repositórios privados ilimitados. Em seguida o GitHub realiza um pequeno questionamento para saber as nossas preferências, para assim sugerir novos usuários para seguir e projetos para participar.
+ 
+ ## Repositório
 
-**Parte da Júlia**
+Um *repositório* é geralmente usado para organizar um único projeto. Repositórios podem conter pastas e arquivos, imagens, vídeos, planilhas e conjuntos de dados - qualquer coisa que seu projeto precisar. É recomendado incluir um *README*, ou um arquivo com informações sobre seu projeto, para dizer a outras pessoas por que seu projeto é útil, o que eles podem fazer com seu projeto e como eles podem usá-lo. O GitHub facilita a adição de um ao mesmo tempo em que você cria seu novo repositório. 
 
-**Parte da Beatriz**
+## Edição de Arquivos no Repositório 
 
+Você pode editar arquivos diretamente no GitHub em qualquer um dos seus repositórios usando o editor de arquivos.
+O editor de arquivos do GitHub usa o CodeMirror. O CodeMirror é um editor de texto versátil implementado em JavaScript para o navegador. É especializado para edição de código e vem com vários modos de linguagem e addons que implementam funcionalidades de edição mais avançadas.
+
+Para Editar Arquivos basta selecionar um arquivo de dentro do seu repositório, há um pequeno lápis no canto superior direito. Se você clicar nele, você pode editar o arquivo. Quando tiver terminado, acesse Propor mudança de arquivo. 
+
+## Branch
+
+*Branches* ("ramos") são separações de código, são utilizados para desenvolver funcionalidades isoladas umas das outras. O branch master é o branch "padrão" quando você cria um repositório. É possível localizar em qual branch eu estou através do conceito de HEAD, que é um ponteiro que indica para o branch local que você está no momento. Um branch não está disponível a outros a menos que você envie o branch para seu repositório remoto.
+
+Um exemplo prático da utilização de branches: Existe um projeto de blog, os desenvolvedores já fizeram quase toda a parte do blog, mas existem alterações para fazer no sistema de usuários do blog e algumas a fazer no sistema de posts do blog.Para isso, cria se uma branch "usuarios" e uma "posts" (ou algo do tipo) e fazem-se as alterações nessas branches, um time trabalha em cada uma dessas branches, enquanto isso, outro time continua trabalhando em pequenas mudanças ou bugfixes na branch master. 
+
+
+## Commit
+
+*Commit* é usado para salvar as alterações feitas no código do meu projeto no repositório local. Cada commit tem uma mensagem associada a ele, que é uma descrição explicando porque uma mudança em particular foi feita. As mensagens de confirmação capturam o histórico de suas alterações, para que outros colaboradores possam endenter o que você fez e porquê. 
+
+Qualquer coisa que não tenha sido selecionada na área de seleção,local onde eu faço as alterações, permanece no meu projeto sem ser modificada. Uma informação interessante sobre commit é que por conta dele, é possível reverter ou comparar a captura do seu projeto. 
+
+Para que as alterações sejam salvas no meu repositório eu uso o comando "git add", se eu estiver utilizando o Git. Se eu estiver modificando diretamente pelo Github, eu apenas clico no ícone do Fork, escrevo minhas alterações no código e depois clico em "commit".
 
 ## Fork e Pull Request
 
