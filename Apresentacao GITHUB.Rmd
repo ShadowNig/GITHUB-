@@ -1,43 +1,43 @@
 ---
 title: "GITHUB"
-author: "Beatriz Mello, J˙lia Oliveira, Lucas Moura, Maqueise Pinheiro & ThaÌs Machado"
+author: "Beatriz Mello, J√∫lia Oliveira, Lucas Moura, Maqueise Pinheiro & Tha√≠s Machado"
 date: "29 de novembro de 2018"
 output: ioslides_presentation
 ---
 
 ## ***Git***
 
-Para entender melhor como o GitHub funciona, primeiramente vamos entender o que È e como funciona o Git.
+Para entender melhor como o GitHub funciona, primeiramente vamos entender o que √© e como funciona o Git.
 
 ![](https://cdn.tproger.ru/wp-content/uploads/2015/05/git-logo1.png)
 
 &nbsp;
 
-O Git È o sistema de controle de vers„o de arquivos mais utilizado no mundo.
+O Git √© o sistema de controle de vers√£o de arquivos mais utilizado no mundo.
 
-## ***Controle de Vers„o***
+## ***Controle de Vers√£o***
 
 &nbsp;
 
 Algumas Vantagens:
 
-- Gerencia diferentes versıes de um documento.
+- Gerencia diferentes vers√µes de um documento.
 - Diversas pessoas podem contribuir simultaneamente no mesmo.
 - Evita problemas do tipo:
-    + Apagar um arquivo importante e n„o ter como recuperar.
+    + Apagar um arquivo importante e n√£o ter como recuperar.
     + Caos entre duas pessoas abrindo o mesmo arquivo ao mesmo tempo.
     
-## ***O que È o GitHub?***
+## ***O que √© o GitHub?***
 
 ![](https://www.oficinadanet.com.br/imagens/post/16111/github-logo.jpg1.jpg)
 
-O GitHub È uma plataforma de hospedagem de cÛdigo-fonte com controle de vers„o usando o Git. Ou seja, È uma espÈcie de rede social para desenvolvedores e programadores; um local na web onde vocÍ consegue hospedar os seus projetos pessoais em nuvem, alÈm de contribuir com outros projetos open source.
+O GitHub √© uma plataforma de hospedagem de c√≥digo-fonte com controle de vers√£o usando o Git. Ou seja, √© uma esp√©cie de rede social para desenvolvedores e programadores; um local na web onde voc√™ consegue hospedar os seus projetos pessoais em nuvem, al√©m de contribuir com outros projetos open source.
 
 ## ***Primeiros passos***
 
-Para usar o GitHub sÛ È necess·rio criar uma conta e ter acesso ‡ internet.
+Para usar o GitHub s√≥ √© necess√°rio criar uma conta e ter acesso √† internet.
 
-O site para termos acesso È o https://github.com/.
+O site para termos acesso √© o https://github.com/.
 
   + Criando uma conta:
 
@@ -47,62 +47,86 @@ O site para termos acesso È o https://github.com/.
 
 ![](C:/Users/thais/Downloads/planos-github.png)
 
-## ***Adaptando sua ExperiÍncia***
+## ***Adaptando sua Experi√™ncia***
 
 ![](C:/Users/thais/Downloads/perguntas-github.png)
 
-## ***InÌcio***
+## ***In√≠cio***
 
 ![](C:/Users/thais/Downloads/inicio-github.png)
 
-## ***RepositÛrio***
+## ***Reposit√≥rio***
 
 &nbsp;
 
-Um repositÛrio È geralmente usado para organizar um ˙nico projeto. RepositÛrios podem conter pastas e arquivos, imagens, vÌdeos, planilhas e conjuntos de dados - qualquer coisa que seu projeto precisar.
-… recomendado incluir um README, ou um arquivo com informaÁıes sobre seu projeto, para dizer a outras pessoas por que seu projeto È ˙til, o que eles podem fazer com seu projeto e como eles podem us·-lo. O GitHub facilita a adiÁ„o de um ao mesmo tempo em que vocÍ cria seu novo repositÛrio. 
+Um reposit√≥rio √© geralmente usado para organizar um √∫nico projeto. Reposit√≥rios podem conter pastas e arquivos, imagens, v√≠deos, planilhas e conjuntos de dados - qualquer coisa que seu projeto precisar.
+√â recomendado incluir um README, ou um arquivo com informa√ß√µes sobre seu projeto, para dizer a outras pessoas por que seu projeto √© √∫til, o que eles podem fazer com seu projeto e como eles podem us√°-lo. O GitHub facilita a adi√ß√£o de um ao mesmo tempo em que voc√™ cria seu novo reposit√≥rio. 
 
-## ***Criando um novo RepositÛrio***
+## ***Criando um novo Reposit√≥rio***
 
   1 - No canto superior direito, ao lado do seu avatar ou identicon, clique em + e selecione New repository.
 ![](exemplo1.png)
 ##
-2 - Nomeie seu repositÛrio.
-3 - Escreva uma breve descriÁ„o.
-4 - Selecione Inicializar este repositÛrio com um README.
+2 - Nomeie seu reposit√≥rio.
+3 - Escreva uma breve descri√ß√£o.
+4 - Selecione Inicializar este reposit√≥rio com um README.
 5 - Clique Create repository.
 
 ##
 
 <img src="repo.png" width="700">
 
-## ***EdiÁ„o de Arquivos no seu RepositÛrio***
+## ***Edi√ß√£o de Arquivos no seu Reposit√≥rio***
 
 &nbsp;
 
-VocÍ pode editar arquivos diretamente no GitHub em qualquer um dos seus repositÛrios usando o editor de arquivos.
+Voc√™ pode editar arquivos diretamente no GitHub em qualquer um dos seus reposit√≥rios usando o editor de arquivos.
  O editor de arquivos do GitHub usa o CodeMirror.
  
-## ***Como Editar Arquivos no seu RepositÛrio***
+## ***Como Editar Arquivos no seu Reposit√≥rio***
 
-1 - Em seu repositÛrio, navegue atÈ o arquivo que vocÍ deseja editar.
-2 - No canto superior direito da visualizaÁ„o de arquivos, clique no l·pis para abrir o editor de arquivos.
+1 - Em seu reposit√≥rio, navegue at√© o arquivo que voc√™ deseja editar.
+2 - No canto superior direito da visualiza√ß√£o de arquivos, clique no l√°pis para abrir o editor de arquivos.
 ![](edit.png)
 
 ##
 
-3 - Na guia Edit file , faÁa as alteraÁıes necess·rias no arquivo.
+3 - Na guia Edit file , fa√ßa as altera√ß√µes necess√°rias no arquivo.
 ![](edit2.png)
 
 ##
 
-4 - Acima do novo conte˙do, clique em Preview changes para visualizar alteraÁıes.
+4 - Acima do novo conte√∫do, clique em Preview changes para visualizar altera√ß√µes.
 <img src="edit3.png" width="500">
 
 ##
 
 5 - Clique em Propose file change.
 <img src="edit5.png" width="700">
+
+## ***Branch*** 
+
+Branches (‚Äúramos‚Äù) s√£o separa√ß√µes de c√≥digo, s√£o utilizados para desenvolver funcionalidades isoladas umas das outras. O branch master √© o branch ‚Äúpadr√£o‚Äù quando voc√™ cria um reposit√≥rio.
+
+![](C:\Users\Bia\Desktop\branch.png)
+
+##
+
+1 - Criando de um novo branch: 
+<img src="criacao.png" width="700">
+
+##
+
+2 - Deletando um branch: 
+
+<img src="exclusao.png" width="700">
+
+
+
+##  ***Commit*** 
+
+Commit √© usado para salvar as altera√ß√µes feitas no c√≥digo do meu projeto no reposit√≥rio local.
+Para que as altera√ß√µes sejam salvas no meu reposit√≥rio eu uso o comando ‚Äúgit add‚Äù, se eu estiver utilizando o Git. Se eu estiver modificando diretamente pelo Github, eu apenas clico no √≠cone do Fork, escrevo minhas altera√ß√µes no c√≥digo e depois clico em ‚Äúcommit‚Äù.
 
 
 ## Fork & Pull Request
