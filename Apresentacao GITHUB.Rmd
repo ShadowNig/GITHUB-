@@ -1,43 +1,43 @@
 ---
 title: "GITHUB"
-author: "Beatriz Mello, JÃºlia Oliveira, Lucas Moura, Maqueise Pinheiro & ThaÃ­s Machado"
+author: "Beatriz Mello, Júlia Oliveira, Lucas Moura, Maqueise Pinheiro & Thaís Machado"
 date: "29 de novembro de 2018"
 output: ioslides_presentation
 ---
 
 ## ***Git***
 
-Para entender melhor como o GitHub funciona, primeiramente vamos entender o que Ã© e como funciona o Git.
+Para entender melhor como o GitHub funciona, primeiramente vamos entender o que é e como funciona o Git.
 
 ![](https://cdn.tproger.ru/wp-content/uploads/2015/05/git-logo1.png)
 
 &nbsp;
 
-O Git Ã© o sistema de controle de versÃ£o de arquivos mais utilizado no mundo.
+O Git é o sistema de controle de versão de arquivos mais utilizado no mundo.
 
-## ***Controle de VersÃ£o***
+## ***Controle de Versão***
 
 &nbsp;
 
 Algumas Vantagens:
 
-- Gerencia diferentes versÃµes de um documento.
+- Gerencia diferentes versões de um documento.
 - Diversas pessoas podem contribuir simultaneamente no mesmo.
 - Evita problemas do tipo:
-    + Apagar um arquivo importante e nÃ£o ter como recuperar.
+    + Apagar um arquivo importante e não ter como recuperar.
     + Caos entre duas pessoas abrindo o mesmo arquivo ao mesmo tempo.
     
-## ***O que Ã© o GitHub?***
+## ***O que é o GitHub?***
 
 ![](https://www.oficinadanet.com.br/imagens/post/16111/github-logo.jpg1.jpg)
 
-O GitHub Ã© uma plataforma de hospedagem de cÃ³digo-fonte com controle de versÃ£o usando o Git. Ou seja, Ã© uma espÃ©cie de rede social para desenvolvedores e programadores; um local na web onde vocÃª consegue hospedar os seus projetos pessoais em nuvem, alÃ©m de contribuir com outros projetos open source.
+O GitHub é uma plataforma de hospedagem de código-fonte com controle de versão usando o Git. Ou seja, é uma espécie de rede social para desenvolvedores e programadores; um local na web onde você consegue hospedar os seus projetos pessoais em nuvem, além de contribuir com outros projetos open source.
 
 ## ***Primeiros passos***
 
-Para usar o GitHub sÃ³ Ã© necessÃ¡rio criar uma conta e ter acesso Ã  internet.
+Para usar o GitHub só é necessário criar uma conta e ter acesso à internet.
 
-O site para termos acesso Ã© o https://github.com/.
+O site para termos acesso é o https://github.com/.
 
   + Criando uma conta:
 
@@ -47,13 +47,63 @@ O site para termos acesso Ã© o https://github.com/.
 
 ![](C:/Users/thais/Downloads/planos-github.png)
 
-## ***Adaptando sua ExperiÃªncia***
+## ***Adaptando sua Experiência***
 
 ![](C:/Users/thais/Downloads/perguntas-github.png)
 
-## ***InÃ­cio***
+## ***Início***
 
 ![](C:/Users/thais/Downloads/inicio-github.png)
+
+## ***Repositório***
+
+&nbsp;
+
+Um repositório é geralmente usado para organizar um único projeto. Repositórios podem conter pastas e arquivos, imagens, vídeos, planilhas e conjuntos de dados - qualquer coisa que seu projeto precisar.
+É recomendado incluir um README, ou um arquivo com informações sobre seu projeto, para dizer a outras pessoas por que seu projeto é útil, o que eles podem fazer com seu projeto e como eles podem usá-lo. O GitHub facilita a adição de um ao mesmo tempo em que você cria seu novo repositório. 
+
+## ***Criando um novo Repositório***
+
+  1 - No canto superior direito, ao lado do seu avatar ou identicon, clique em + e selecione New repository.
+![](exemplo1.png)
+##
+2 - Nomeie seu repositório.
+3 - Escreva uma breve descrição.
+4 - Selecione Inicializar este repositório com um README.
+5 - Clique Create repository.
+
+##
+
+<img src="repo.png" width="700">
+
+## ***Edição de Arquivos no seu Repositório***
+
+&nbsp;
+
+Você pode editar arquivos diretamente no GitHub em qualquer um dos seus repositórios usando o editor de arquivos.
+ O editor de arquivos do GitHub usa o CodeMirror.
+ 
+## ***Como Editar Arquivos no seu Repositório***
+
+1 - Em seu repositório, navegue até o arquivo que você deseja editar.
+2 - No canto superior direito da visualização de arquivos, clique no lápis para abrir o editor de arquivos.
+![](edit.png)
+
+##
+
+3 - Na guia Edit file , faça as alterações necessárias no arquivo.
+![](edit2.png)
+
+##
+
+4 - Acima do novo conteúdo, clique em Preview changes para visualizar alterações.
+<img src="edit3.png" width="500">
+
+##
+
+5 - Clique em Propose file change.
+<img src="edit5.png" width="700">
+
 
 ## Fork & Pull Request
 
