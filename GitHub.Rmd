@@ -1,11 +1,25 @@
+
 ---
 title: "GitHub"
 author: "Beatriz Mello, Júlia Oliveira, Lucas Moura, Maqueise Pinheiro & Thaís Machado"
 date: "29 de novembro de 2018"
-output: rmarkdown::html_vignette
+output:
+  prettydoc::html_pretty:
+    theme: architect
+    highlight: github
 ---
 
-**Parte da Thaís**
+## Git
+
+O *Git* é um sistema de controle de versão (o mais utilizado no mundo). Através dele podemos desenvolver projetos pessoais ou open source, na qual diversas pessoas podem contribuir com ele, corrigindo bugs, fazendo alterações ou simplesmente complementando. Através dele podemos gerenciar diversas versões de um documento, tanto as iniciais quanto as modificadas. 
+
+Podemos baixar e instalar o software do Git no nosso computador, para versionarmos os arquivos diretamente por ele, mas não é necessário pois o site do GitHub já opera com o Git. Para utilizarmos o GitHub só é necessário uma conta e acesso à internet.
+
+## GitHub
+
+O *GitHub* é uma plataforma de hospedagem de códigos e projetos em nuvem. Ele utiliza o controle de versão através do Git. Mais informalmente falando, o GitHub é como uma rede social para programadores e/ou pessoas interessadas em aprender programação ou contribuir com projetos, sejam pessoais ou em grupo.
+
+Para criarmos uma conta no GitHub, basta fornecer nosso e-mail e escolher um nome de usuário. Assim que os dados forem cadastrados, escolheremos um plano mensal para a nossa conta, o gratuito ou o developer. Com o gratuito temos direito a: uma conta, repositórios públicos ilimitados e direito a colaborações ilimitadas. Com o developer temos direito a tudo isso e também a repositórios privados ilimitados. Em seguida o GitHub realiza um pequeno questionamento para saber as nossas preferências, para assim sugerir novos usuários para seguir e projetos para participar.
 
 **Parte da Júlia**
 
@@ -14,9 +28,9 @@ output: rmarkdown::html_vignette
 
 ## Fork e Pull Request
 
-*Fork* é uma cópia de um repositório que te permite fazer modificações sem alterar o repositório original. Normalmente, o *fork* é utilizado para propor alterações no projeto de outra pessoa ou como ponto de partida para uma ideia sua, que é um dos objetivos do github.
+*Fork* é uma cópia de um repositório que te permite fazer modificações sem alterar o repositório original. Normalmente, o *fork* é utilizado para propor alterações no projeto de outra pessoa ou como ponto de partida para uma ideia sua que é um dos objetivos do github.
 
-Se queremos que nossas modificações fiquem salvas no repositório original, podemos usar o *Pull Request* para solicitar ao usuário que adicione essas alterações ao arquivo. O Responsável pelo projeto pode aceitar ou não essas solicitações.
+Se queremos que nossas modificacoes fiquem salvas no repositório original, podemos usar o *Pull Request* para solicitar ao usuário que adicione essas alterações ao arquivo. O Responsável pelo projeto pode aceitar ou nao essas solicitações.
 
 Um ótimo exemplo para usar o *fork* é para consertar bugs. Para isto, usamos o *Pull request*, caso os donos do repositório original gostem das suas alterações, o repositório original recebe as mudanças que você mesmo realizou.
 
@@ -27,10 +41,10 @@ Um ótimo exemplo para usar o *fork* é para consertar bugs. Para isto, usamos o
 
 ## Projects
 
-O *projects* funciona como um trello. Ele ajuda a organizar o espaço de trabalho em listas e tópicos. É possivel organizar os *issues* e *Pull Requests* e ainda adicionar notas.
+O projects funciona como um trello. Ele ajuda a organizar o espaco de trabalho em listas e topicos. e possivel organizar os issues e Pull Requests e ainda adicionar notas.
 
 ## Watch e Stars
 
-O sistema de *watch* e uma maneira de acompanhar seu repositórios de interesse de modo que você seja informado se houve alguma alteração neles. Da mesma maneira funciona o *follow*, mas ao invés de repositórios, segue-se um desenvolvedor.
+O sistema de *watch* e uma maneira de acompanhar seu repositorios de interesse de modo que voce seja informado se houve alguma alteracao neles. da mesma maneira funciona o *follow*, mas ao inves de repositorios, segue-se um desenvolvedor.
 
-Podemos também adicionar estrelas (*Stars*) em um repositório, assim ele ficará salvos em sua lista de *Stars* e permitirá que descubra projetos semelhantes.
+Podemos tambem adicionar estrelas (Stars) em um repositorio, assim ele ficara salvos em sua lista de Stars e permitira que descubra projetos semelhantes.
