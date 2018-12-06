@@ -69,3 +69,13 @@ O projects funciona como um trello. Ele ajuda a organizar o espaco de trabalho e
 O sistema de *watch* e uma maneira de acompanhar seu repositorios de interesse de modo que voce seja informado se houve alguma alteracao neles. da mesma maneira funciona o *follow*, mas ao inves de repositorios, segue-se um desenvolvedor.
 
 Podemos tambem adicionar estrelas (Stars) em um repositorio, assim ele ficara salvos em sua lista de Stars e permitira que descubra projetos semelhantes.
+
+## Relação R - GitHub
+
+O GitHub é a maior rede contribuinte para o R. Isso porque através dele acontecem as maiores contribuições para o desenvolvimento de códigos e pacotes. Por ser uma rede open source, permite que os usuários tenham uma maior interação, acelerando o processo da produção dos pacotes, assim como no aperfeiçoamento dos mesmos. 
+
+Todos os procedimentos comentados anteriormente se encaixam perfeitamente para a produção de códigos e pacotes do R: podemos criar um repositório para o pacote, outro usuário poderá solicitar mudanças através do pull request, entre outros. Podemos criar um pacote no GitHub e facilmente instalá-lo no R, como será explicado mais a seguir.
+
+## Como criar pacotes para o R com o GitHub
+
+## Instalando pacotes do R disponíveis no GitHub
