@@ -21,7 +21,7 @@ O *GitHub* é uma plataforma de hospedagem de códigos e projetos em nuvem. Ele 
 
 Para criarmos uma conta no GitHub, basta fornecer nosso e-mail e escolher um nome de usuário. Assim que os dados forem cadastrados, escolheremos um plano mensal para a nossa conta, o gratuito ou o developer. Com o gratuito temos direito a: uma conta, repositórios públicos ilimitados e direito a colaborações ilimitadas. Com o developer temos direito a tudo isso e também a repositórios privados ilimitados. Em seguida o GitHub realiza um pequeno questionamento para saber as nossas preferências, para assim sugerir novos usuários para seguir e projetos para participar.
  
- ## Repositório
+## Repositório
 
 Um *repositório* é geralmente usado para organizar um único projeto. Repositórios podem conter pastas e arquivos, imagens, vídeos, planilhas e conjuntos de dados - qualquer coisa que seu projeto precisar. É recomendado incluir um *README*, ou um arquivo com informações sobre seu projeto, para dizer a outras pessoas por que seu projeto é útil, o que eles podem fazer com seu projeto e como eles podem usá-lo. O GitHub facilita a adição de um ao mesmo tempo em que você cria seu novo repositório. 
 
@@ -62,20 +62,33 @@ Um ótimo exemplo para usar o *fork* é para consertar bugs. Para isto, usamos o
 
 ## Projects
 
-O projects funciona como um trello. Ele ajuda a organizar o espaco de trabalho em listas e topicos. e possivel organizar os issues e Pull Requests e ainda adicionar notas.
+O *projects* funciona como um trello. Ele ajuda a organizar o espaco de trabalho em listas e tópicos. É possível organizar os issues e Pull Requests e ainda adicionar notas.
 
 ## Watch e Stars
 
-O sistema de *watch* e uma maneira de acompanhar seu repositorios de interesse de modo que voce seja informado se houve alguma alteracao neles. da mesma maneira funciona o *follow*, mas ao inves de repositorios, segue-se um desenvolvedor.
+O sistema de *watch* é uma maneira de acompanhar seus repositórios de interesse de modo que você seja informado se houver alguma alteração neles. Da mesma maneira funciona o *follow*, mas ao invés de repositórios, segue-se um desenvolvedor.
 
-Podemos tambem adicionar estrelas (Stars) em um repositorio, assim ele ficara salvos em sua lista de Stars e permitira que descubra projetos semelhantes.
+Podemos também adicionar estrelas (Stars) em um repositório, assim ele ficará salvo em sua lista de Stars e permitirá que descubra projetos semelhantes.
 
 ## Relação R - GitHub
 
 O GitHub é a maior rede contribuinte para o R. Isso porque através dele acontecem as maiores contribuições para o desenvolvimento de códigos e pacotes. Por ser uma rede open source, permite que os usuários tenham uma maior interação, acelerando o processo da produção dos pacotes, assim como no aperfeiçoamento dos mesmos. 
 
-Todos os procedimentos comentados anteriormente se encaixam perfeitamente para a produção de códigos e pacotes do R: podemos criar um repositório para o pacote, outro usuário poderá solicitar mudanças através do pull request, entre outros. Podemos criar um pacote no GitHub e facilmente instalá-lo no R, como será explicado mais a seguir.
+Todos os procedimentos comentados anteriormente se encaixam perfeitamente para a produção de códigos e pacotes do R: podemos criar um repositório para o pacote, outro usuário poderá solicitar mudanças através do pull request, entre outros. 
 
-## Como criar pacotes para o R com o GitHub
+Ao trabalhar com o R, muitas vezes precisamos instalar pacotes. Grande parte dos pacotes estão disponíveis no CRAN (The Comprehensive R Archive Network). Porém atualmente muitos pacotes são disponibilizados antes de irem para o CRAN no GitHub. Para instalar pacotes direto do GitHub, precisamos de um pacote chamado devtools.
 
-## Instalando pacotes do R disponíveis no GitHub
+Instale o devtools usando:
+```{r,eval=F}
+install.packages("devtools")
+```
+Em seguida instale qualquer pacote do GitHub usando:
+```{r,eval=F}
+library(devtools)
+install_github("nome_do_usuario/nome_do_repositorio")
+```
+
+Depois de instalado, para carregar o pacote use:
+```{r,eval=F}
+library(nome_do_pacote)
+```
